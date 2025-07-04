@@ -1,7 +1,6 @@
 ## Hi there 👋
-I am Julius Kassner a student of the ESM<br>
-Interested in coding and currently trying to improve<br>
-and unsure if to persue this career path.
+I am Julius Kassner a student of the ESM(+ internship at infineon)<br>
+Interested in coding and currently trying to build up more experince and skills.
 <!--
 **jukihila/jukihila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
