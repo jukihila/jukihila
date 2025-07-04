@@ -1,5 +1,7 @@
 ## Hi there 👋
-IM am absbfas
+I am Julius Kassner a student of the ESM
+Interested in coding and currently trying to improve
+and unsure if to persue this career path.
 <!--
 **jukihila/jukihila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
