@@ -1,6 +1,6 @@
 ## Hi there 👋
-I am Julius Kassner a student of the ESMB<br>
-Interested in coding and currently trying to improve
+I am Julius Kassner a student of the ESM<br>
+Interested in coding and currently trying to improve<br>
 and unsure if to persue this career path.
 <!--
 **jukihila/jukihila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
